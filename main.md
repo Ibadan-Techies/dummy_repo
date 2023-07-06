@@ -1,3 +1,3 @@
 Hello World,
 Nophy is rocking it.
-Welcome to the hard parts...
+Welcome to the hard part
